@@ -1,0 +1,21 @@
+.root {
+	background-color: black;
+}
+
+.page {
+	max-width: 1280px;
+	background-color: white;
+	margin: auto;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.page__title {
+	font-size: 36px;
+	line-height: 1.1;
+	color: black;
+	margin: 0;
+}
